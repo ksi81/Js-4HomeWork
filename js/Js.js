@@ -31,6 +31,8 @@ window.onload = function () {
 		if (target.className == 'but') {
 			count++;
 			span.innerHTML = count;
+
+			
 			//здесь отсылаем новые данные на сервер
 		}
 	}
